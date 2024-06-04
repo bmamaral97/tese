@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "lti.basic.registration.id",
+      "type": "java.lang.String",
+      "description": "Description for lti.basic.registration.id."
+    }
+  ]
+}

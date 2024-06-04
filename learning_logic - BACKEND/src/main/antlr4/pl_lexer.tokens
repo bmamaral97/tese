@@ -1,0 +1,16 @@
+AND=1
+OR=2
+NOT=3
+IMPLIES=4
+EQUIV=5
+LPAREN=6
+RPAREN=7
+LETTER=8
+WS=9
+'&'=1
+'|'=2
+'~'=3
+'=>'=4
+'<=>'=5
+'('=6
+')'=7
